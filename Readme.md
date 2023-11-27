@@ -9,14 +9,14 @@ Automatizando a Diversão: Fomos criados com a missão de aprimorar a experiênc
 - **Autofarms**
 - *Balneario*
   
-'Gari'
-'Estocador'
-'Fazendeiro'
-'Lenhador'
-'Fornecedor'
-'Corretor (Puzzle)'
-'Corretor (Matematica)'
-
+Gari
+Estocador
+Fazendeiro
+Lenhador
+Fornecedor
+Corretor (Puzzle)
+Corretor (Matematica)
+-
 
 
 

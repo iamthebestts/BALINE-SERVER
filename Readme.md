@@ -2,6 +2,7 @@
 
 ## Developers
 ### Iamthebestts#4112 - Project Owner
+### darkforman - Project Sub-owner
 
 
 #

@@ -21,10 +21,12 @@ Automatizando a Diversão: Fomos criados com a missão de aprimorar a experiênc
 
 
 
+#
 
-
-
-
+## Preços
+### Roblox
+- **Roleplay Pack (Script que funciona em 2 ou mais Roleplays.** ### 20
+- **Rust v2275 (Versão crackeada do Rust.)** ### 25
 
 
 # Script

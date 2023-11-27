@@ -1,7 +1,10 @@
 # BALINE SERVER
 
+## Developers
+### Iamthebestts#4112 - Project Owner
 
 
+#
 ## Por quê fomos criados
 
 Automatizando a Diversão: Fomos criados com a missão de aprimorar a experiência dos nossos usuários, especialmente nos jogos de roleplay do Roblox, eliminando as tarefas tediosas e repetitivas. Nossa equipe de talentosos desenvolvedores se propôs a explorar maneiras de simplificar processos, permitindo que os jogadores se concentrem no que realmente importa: aproveitar o jogo ao máximo.
@@ -26,8 +29,12 @@ Automatizando a Diversão: Fomos criados com a missão de aprimorar a experiênc
 ## Preços
 ### Roblox
 - **Roleplay Pack (Script que funciona em 2 ou mais Roleplays.** **$20**
-- **Rust v2275 (Versão crackeada do Rust.)** **$25**
+- **Rust v2275 (Versão crackeada do Rust).** **$25**
 
+## Discord Server 
+```lua
+https://discord.gg/YUCF3puYGc
+```
 
 # Script
 ```lua

@@ -28,3 +28,6 @@ Automatizando a Diversão: Fomos criados com a missão de aprimorar a experiênc
 # Script
 ```lua
 Script em DESENVOLVIMENTO
+```
+
+![Banner](https://raw.githubusercontent.com/iamthebestts/BALINE-SERVER/Regras/Baline%20server%20Logo.jpg)

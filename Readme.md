@@ -13,6 +13,6 @@ Automatizando a Diversão: Fomos criados com a missão de aprimorar a experiênc
 
 
 
-#Script
+# Script
 ```lua
 Script em DESENVOLVIMENTO
